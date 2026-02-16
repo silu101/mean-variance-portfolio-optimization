@@ -17,7 +17,6 @@ where:
 - μ: expected returns
 - λ: risk aversion parameter
 
----
 
 ## Methods Implemented
 
@@ -33,7 +32,6 @@ where:
 - Combines Lagrangian + penalty
 - Achieves fast convergence and exact constraint satisfaction
 
----
 
 ## Key Results
 
@@ -44,7 +42,6 @@ where:
   - Fast convergence
   - High numerical stability
 
----
 
 ## Experiments
 
@@ -53,7 +50,6 @@ where:
 - Weight comparison across methods
 - Approximation error vs penalty parameter
 
----
 
 ## KKT Equivalence
 
