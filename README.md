@@ -1,4 +1,3 @@
-# mean-variance-portfolio-optimization
 # Mean–Variance Portfolio Optimization
 
 This project implements and compares multiple optimization algorithms for solving the classical mean–variance portfolio optimization problem under simplex constraints.
